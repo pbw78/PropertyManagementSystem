@@ -1,0 +1,7 @@
+Improve the mobile interface by adding language selection to the header
+
+Adds LanguageSwitcher to the MobileNavigation within Layout.tsx and removes language state from Header.tsx.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: cb28fa8c-ea4e-4e52-9ab5-5fe08cf9799e
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/50dbca88-2672-43c6-9bad-b561044fe38a/ba03ca98-c34a-4be0-970c-278a630a6fcc.jpg
